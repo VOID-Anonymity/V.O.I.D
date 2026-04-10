@@ -1,7 +1,7 @@
 # [V.O.I.D]
 
 > "The void is not empty, it's just clean."
-
+![System Loading...](https://i.pinimg.com/736x/5c/df/29/5cdf291c9b71e3b5a8dfbe40475bac30.jpg)
 ### 🛠 Tech Stack
 * **OS:** Linux (Mint / Debian)
 * **Mobile Modding:** Smali, APK Optimization, Decompilation
