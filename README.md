@@ -6,7 +6,7 @@
 * **OS:** Linux (Mint / Debian)
 * **Mobile Modding:** Smali, APK Optimization, Decompilation
 * **Networking:** VPN Protocols (VLESS, Reality, gRPC), Infrastructure Hardening
-* **Programming:** IT Enthusiast @ Kvantorium
+* **Programming:** IT Enthusiast
 
 ### 🛡 Philosophy
 * **Privacy First:** If it tracks you, it doesn't belong here.
